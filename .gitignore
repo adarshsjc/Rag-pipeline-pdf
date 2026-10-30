@@ -43,3 +43,7 @@ ENV/
 # Inngest / Local dev
 .inngest/
 *.log
+
+# Vector databases
+qdrant_storage/
+
